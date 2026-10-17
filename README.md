@@ -1,3 +1,5 @@
+view live https://aasakib.github.io/3d-portfolio/
+
 # A. A. Sakib — 3D Portfolio
 
 Scroll-driven 3D portfolio: a low-poly IT-office island (desk, live monitor, server rack, switch, router, cables with moving data packets, Wi-Fi pulse, orbit rings, sparkles) built procedurally with **three.js**; the camera flies between spots as you scroll using **GSAP + ScrollTrigger**. Your cut-out portrait floats in the scene and pops out of the About card.
